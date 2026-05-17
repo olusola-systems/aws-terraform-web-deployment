@@ -83,7 +83,7 @@ Deployed Website
 <img width="2880" height="1800" alt="Terraform Outputs" src="https://github.com/user-attachments/assets/f16434a7-198b-4d00-87aa-3b0c45917404" />
 
 
-# Automatically Procisioned VPC Resources
+# Automatically Provisioned VPC Resources
 <img width="2880" height="1800" alt="VPC Ressources" src="https://github.com/user-attachments/assets/e2c8f761-8502-438f-8306-27e62c57ef1a" />
 
 ## Notes
